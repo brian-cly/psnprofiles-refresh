@@ -1,0 +1,1 @@
+Playing with Selenium on Python. This is designed to refresh my PSNProfiles profile if I'm too lazy to do it myself, but it doesn't actually work that efficiently because you sometimes have to solve a reCAPTCHA.
